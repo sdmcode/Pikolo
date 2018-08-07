@@ -1,0 +1,7 @@
+﻿  Dungeon.cpp
+d:\workspaces\vis studio\pikolo\pikolo\pikolo\dungeon.cpp(93): warning C4018: '<=': signed/unsigned mismatch
+  Pikolo.cpp
+d:\workspaces\vis studio\pikolo\pikolo\pikolo\pikolo.cpp(339): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\workspaces\vis studio\pikolo\pikolo\pikolo\pikolo.cpp(361): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Pikolo.vcxproj -> D:\Workspaces\vis studio\Pikolo\Pikolo\Debug\Pikolo.exe
